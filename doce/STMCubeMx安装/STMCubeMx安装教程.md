@@ -1,7 +1,9 @@
 # <center>STM32F4CubeMx安装  
 ##  1.进入[STM32官方网址](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software)并注册获取下载链接
 ### 点击获取软件
-![01](image.png)
+
+<img width="75%" src = "./image.png" ><img>
 ### 点击Get laster进入协议界面
-![Alt text](image-1.png)
-### 直接点接受后会弹出填写信息的界面，填一下就行了。
+![图02](image-1.png)
+### 直接点接受后会弹出填写信息的界面，填一下就行了,之后会向你填的邮箱里发送一封邮件，点击里面的链接就可以下载了。
+![图03](image-2.png)
