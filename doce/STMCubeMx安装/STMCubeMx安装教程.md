@@ -2,7 +2,7 @@
 
 ##  进入[STM32官方网址](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software)
 ### 点击获取软件
-<img width="75%" src = "./picture/image.png">
+<img width="75%" src = "https://github.com/T7HTQH/stm32f4/blob/main/doce/STMCubeMx%E5%AE%89%E8%A3%85/picture/image-1.png">
 
 ### 点击Get laster进入协议界面
 <img width="75%" src = "./picture/image-1.png">
