@@ -24,5 +24,30 @@
 ![Alt text](picture/image-10.png)
 ## 13. 在左边的一栏里找到这个
 ![Alt text](picture/image-11.png)
-## 14. 点击前面的加号展开，找到对应的芯片型号展开，以STM32F401CBUX为例，展开到最后一级，点击芯片图标，会在右侧出现一个Device Specific的目录，点击目录下的Install，等待下方进度条跑完就可以关掉这个界面，就可以~~愉快地~~编代码去了。
+## 14. 点击前面的加号展开，找到对应的芯片型号展开，以STM32F401CBUX为例，展开到最后一级，点击芯片图标，会在右侧出现一个Device Specific的目录，点击目录下的Install，等待下方进度条跑完就可以关掉这个界面。
 ![Alt text](picture/image-12.png)
+## 15. 由于keil5.37版本以后不再自带ARM5编译器，需要在网上找到编译器，下载下来最终是一个压缩包
+![Alt text](picture/image-13.png)
+## 16. 解压，在文件里找到名为setup.exe的文件，双击打开
+![Alt text](picture/image-14.png)
+## 17.一直next，直到
+![Alt text](picture/image-15.png)
+## 需要点击 Browse把安装路径更改至keilv5路径下的ARM文件内，之后等待安装完成。
+## 17. 打开keil，随便选一个芯片新建一个工程，
+![Alt text](picture/image-16.png)
+## 随便起个名字点保存
+![Alt text](picture/image-17.png)
+## 随便选择一个芯片展开至最底层，点击具体芯片，点击OK建立工程 
+![Alt text](picture/image-18.png)
+## 会弹出来一个窗口，这个窗口暂时用不到，直接cancel 
+![Alt text](picture/image-19.png)
+## 点击上方“品”字形的按钮
+![Alt text](picture/image-20.png)
+## 点击folders/Esteension 选项卡，再点击地址栏后面的三个点，
+![Alt text](picture/image-21.png)
+## 点击下方ADD开头的按钮，进入keilv5/ARM目录下，点击确定，之后点击close按钮 
+![Alt text](picture/image-22.png)
+## 点击close后会回到这个界面，点击OK（不要直接X掉这个界面，点击OK才会保存）
+![Alt text](picture/image-23.png)
+## 之后点击魔术棒按钮，在右侧的ARM Compiler中应该能找到V5版本的Compiiler
+![Alt text](picture/image-24.png)
